@@ -1,0 +1,17 @@
+/*
+
+ * Version: 1.2
+
+ * Theme Name: FACENF
+*/
+@media (max-width:991px) {
+    body.poster {
+        margin-top: 60vh;
+    }
+}
+
+body.poster {
+}
+
+.top-5 {
+}
